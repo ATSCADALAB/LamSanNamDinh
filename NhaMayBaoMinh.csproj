@@ -7,7 +7,7 @@
     <ProjectGuid>{6AC05396-86A6-41A6-BE12-4FBF47EB1FB8}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>NhaMayTanThanh</RootNamespace>
-    <AssemblyName>NhaMayTanThanh</AssemblyName>
+    <AssemblyName>NhaMayBaoMinh</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -36,22 +36,22 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DriverPluginInterface">
-      <HintPath>..\PowerManagementSystem\bin\Debug\DriverPluginInterface.dll</HintPath>
+      <HintPath>..\NhaMayHoaXa\bin\Debug\DriverPluginInterface.dll</HintPath>
     </Reference>
     <Reference Include="iDriver">
-      <HintPath>..\PowerManagementSystem\bin\Debug\iDriver.dll</HintPath>
+      <HintPath>..\NhaMayHoaXa\bin\Debug\iDriver.dll</HintPath>
     </Reference>
     <Reference Include="iEnergyTools">
-      <HintPath>..\PowerManagementSystem\bin\Debug\iEnergyTools.dll</HintPath>
+      <HintPath>..\NhaMayHoaXa\bin\Debug\iEnergyTools.dll</HintPath>
     </Reference>
     <Reference Include="iLEANTools">
-      <HintPath>..\PowerManagementSystem\bin\Debug\iLEANTools.dll</HintPath>
+      <HintPath>..\NhaMayHoaXa\bin\Debug\iLEANTools.dll</HintPath>
     </Reference>
     <Reference Include="iTools">
-      <HintPath>..\PowerManagementSystem\bin\Debug\iTools.dll</HintPath>
+      <HintPath>..\NhaMayHoaXa\bin\Debug\iTools.dll</HintPath>
     </Reference>
     <Reference Include="iWebService">
-      <HintPath>..\PowerManagementSystem\bin\Debug\iWebService.dll</HintPath>
+      <HintPath>..\NhaMayHoaXa\bin\Debug\iWebService.dll</HintPath>
     </Reference>
     <Reference Include="MySql.Data, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -68,12 +68,6 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="ToolExtensions">
-      <HintPath>..\PowerManagementSystem\bin\Debug\ToolExtensions.dll</HintPath>
-    </Reference>
-    <Reference Include="ZedGraph">
-      <HintPath>..\PowerManagementSystem\bin\Debug\ZedGraph.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs">
