@@ -118,430 +118,475 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <metadata name="iDriverMain.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>358, 17</value>
+    <value>354, 54</value>
   </metadata>
   <metadata name="LogID1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>377, 368</value>
+    <value>108, 313</value>
   </metadata>
   <data name="LogID1.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW1.ID1_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW1ID1.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID1_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID1_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW1ID1.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW1ID1.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW1ID1.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>107, 368</value>
+    <value>724, 276</value>
   </metadata>
   <data name="LogID2.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW1.ID2_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW1ID2.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID2_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID2_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW1ID2.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW1ID2.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW1ID2.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID3.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>197, 368</value>
+    <value>815, 276</value>
   </metadata>
   <data name="LogID3.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW1.ID3_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW1ID3.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID3_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID3_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW1ID3.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW1ID3.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW1ID3.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID4.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>287, 368</value>
+    <value>17, 313</value>
   </metadata>
   <data name="LogID4.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW1.ID4_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW1ID4.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID4_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID4_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW1ID4.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW1ID4.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW1ID4.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID5.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>377, 368</value>
+    <value>199, 313</value>
   </metadata>
   <data name="LogID5.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW1.ID5_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW1ID5.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID5_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID5_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW1ID5.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW1ID5.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW1ID5.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID6.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>467, 368</value>
+    <value>498, 313</value>
   </metadata>
   <data name="LogID6.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW1.ID6_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW1ID6.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID6_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID6_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW1ID6.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW1ID6.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW1ID6.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID7.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>557, 368</value>
+    <value>589, 313</value>
   </metadata>
   <data name="LogID7.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW1.ID7_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW1ID7.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID7_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID7_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW1ID7.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW1ID7.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW1ID7.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID8.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>647, 368</value>
+    <value>680, 313</value>
   </metadata>
   <data name="LogID8.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW1.ID8_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW1ID8.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID8_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID8_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW1ID8.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW1ID8.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW1ID8.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID9.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>737, 368</value>
+    <value>979, 313</value>
   </metadata>
   <data name="LogID9.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW1.ID9_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW1ID9.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID9_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID9_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW1ID9.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW1ID9.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW1ID9.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID10.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>827, 368</value>
+    <value>17, 350</value>
   </metadata>
   <data name="LogID10.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW1.ID10_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW1ID10.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID10_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID10_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW1ID10.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW1ID10.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW1ID10.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID11.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>917, 368</value>
+    <value>322, 350</value>
   </metadata>
   <data name="LogID11.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW1.ID11_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW1ID11.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID11_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID11_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW1ID11.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW1ID11.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW1ID11.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID12.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 329</value>
+    <value>821, 202</value>
   </metadata>
   <data name="LogID12.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW1.ID12_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW1ID12.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID12_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW1.ID12_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW1ID12.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW1ID12.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW1ID12.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID13.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>107, 329</value>
+    <value>918, 202</value>
   </metadata>
   <data name="LogID13.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW2.ID13_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW2ID13.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW2.ID13_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW2.ID13_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW2ID13.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW2ID13.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW2ID13.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID14.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>197, 329</value>
+    <value>1015, 202</value>
   </metadata>
   <data name="LogID14.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW2.ID14_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW2ID14.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW2.ID14_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW2.ID14_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW2ID14.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW2ID14.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW2ID14.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID15.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>287, 329</value>
+    <value>225, 239</value>
   </metadata>
   <data name="LogID15.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW2.ID15_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW2ID15.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW2.ID15_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW2.ID15_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW2ID15.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW2ID15.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW2ID15.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
-  <metadata name="LogID16.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>377, 329</value>
-  </metadata>
   <data name="LogID16.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW2.ID16_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW2ID16.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW2.ID16_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW2.ID16_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW2ID16.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW2ID16.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW2ID16.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
+  <data name="LogID17.Collection" xml:space="preserve">
+    <value>|Internal_NhaMayBaoMinhSET_GW2.ID17_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW2ID17.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW2.ID17_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW2.ID17_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW2ID17.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW2ID17.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW2ID17.kWh&amp;EnergyRealtime&amp;False</value>
+  </data>
+  <data name="LogID18.Collection" xml:space="preserve">
+    <value>|Internal_NhaMayBaoMinhSET_GW2.ID18_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW2ID18.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW2.ID18_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW2.ID18_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW2ID18.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW2ID18.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW2ID18.kWh&amp;EnergyRealtime&amp;False</value>
+  </data>
+  <data name="LogID19.Collection" xml:space="preserve">
+    <value>|Internal_NhaMayBaoMinhSET_GW2.ID19_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW2ID19.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW2.ID19_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW2.ID19_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW2ID19.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW2ID19.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW2ID19.kWh&amp;EnergyRealtime&amp;False</value>
+  </data>
+  <metadata name="LogID16.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>322, 239</value>
+  </metadata>
+  <metadata name="LogID17.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>469, 17</value>
+  </metadata>
+  <metadata name="LogID18.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>372, 17</value>
+  </metadata>
+  <metadata name="LogID19.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>275, 17</value>
+  </metadata>
   <metadata name="LogID20.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>467, 329</value>
+    <value>627, 239</value>
   </metadata>
   <data name="LogID20.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW3.ID20_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW3ID20.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW3.ID20_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW3.ID20_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW3ID20.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW3ID20.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW3ID20.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID21.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>557, 329</value>
+    <value>724, 239</value>
   </metadata>
   <data name="LogID21.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW3.ID21_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW3ID21.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW3.ID21_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW3.ID21_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW3ID21.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW3ID21.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW3ID21.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID22.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>647, 329</value>
+    <value>821, 239</value>
   </metadata>
   <data name="LogID22.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW3.ID22_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW3ID22.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW3.ID22_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW3.ID22_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW3ID22.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW3ID22.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW3ID22.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID23.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>737, 329</value>
+    <value>17, 276</value>
   </metadata>
   <data name="LogID23.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW3.ID23_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW3ID23.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW3.ID23_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW3.ID23_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW3ID23.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW3ID23.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW3ID23.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID24.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>827, 329</value>
+    <value>114, 276</value>
   </metadata>
   <data name="LogID24.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW3.ID24_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW3ID24.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW3.ID24_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW3.ID24_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW3ID24.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW3ID24.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW3ID24.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID25.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>917, 329</value>
+    <value>419, 276</value>
   </metadata>
   <data name="LogID25.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW3.ID25_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW3ID25.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW3.ID25_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW3.ID25_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW3ID25.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW3ID25.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW3ID25.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID26.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 290</value>
+    <value>999, 165</value>
   </metadata>
   <data name="LogID26.Collection" xml:space="preserve">
     <value>Internal_NhaMayBaoMinhSET_GW3.ID26_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW3ID26.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW3.ID26_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW3.ID26_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW3ID26.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW3ID26.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW3ID26.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID27.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>107, 290</value>
+    <value>17, 202</value>
   </metadata>
   <data name="LogID27.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW3.ID27_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW3ID27.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW3.ID27_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW3.ID27_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW3ID27.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW3ID27.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW3ID27.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID28.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>197, 290</value>
+    <value>114, 202</value>
   </metadata>
   <data name="LogID28.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW4.ID28_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW4ID28.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW4.ID28_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW4.ID28_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW4ID28.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW4ID28.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW4ID28.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID29.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>287, 290</value>
+    <value>419, 202</value>
   </metadata>
   <data name="LogID29.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW4.ID29_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW4ID29.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW4.ID29_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW4.ID29_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW4ID29.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW4ID29.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW4ID29.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="LogID30.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>377, 290</value>
+    <value>516, 202</value>
   </metadata>
   <data name="LogID30.Collection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhSET_GW4.ID30_HighVol&amp;HighVoltage&amp;False|NhaMayBaoMinh_GW4ID30.Average_Voltage&amp;Voltage&amp;False|Internal_NhaMayBaoMinhSET_GW4.ID30_LowVol&amp;LowVoltage&amp;False|Internal_NhaMayBaoMinhSET_GW4.ID30_HighCurrent&amp;HighCurrent&amp;False|NhaMayBaoMinh_GW4ID30.Average_Current&amp;Current&amp;False|NhaMayBaoMinh_GW4ID30.Total_kW&amp;ActivePower&amp;False|NhaMayBaoMinh_GW4ID30.kWh&amp;EnergyRealtime&amp;False</value>
   </data>
   <metadata name="SumPowerBaoMinh.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>640, 485</value>
+    <value>381, 461</value>
   </metadata>
   <data name="SumPowerBaoMinh.Collection" xml:space="preserve">
-    <value>|NhaMayBaoMinh_GW1ID1.Total_kW&amp;1|NhaMayBaoMinh_GW1ID2.Total_kW&amp;1|NhaMayBaoMinh_GW1ID3.Total_kW&amp;1|NhaMayBaoMinh_GW1ID4.Total_kW&amp;1|NhaMayBaoMinh_GW1ID5.Total_kW&amp;1|NhaMayBaoMinh_GW1ID6.Total_kW&amp;1|NhaMayBaoMinh_GW1ID7.Total_kW&amp;1|NhaMayBaoMinh_GW1ID8.Total_kW&amp;1|NhaMayBaoMinh_GW1ID9.Total_kW&amp;1|NhaMayBaoMinh_GW1ID10.Total_kW&amp;1|NhaMayBaoMinh_GW1ID11.Total_kW&amp;1|NhaMayBaoMinh_GW1ID12.Total_kW&amp;1|NhaMayBaoMinh_GW2ID13.Total_kW&amp;1|NhaMayBaoMinh_GW2ID14.Total_kW&amp;1|NhaMayBaoMinh_GW2ID15.Total_kW&amp;1|NhaMayBaoMinh_GW2ID16.Total_kW&amp;1|NhaMayBaoMinh_GW3ID20.Total_kW&amp;1|NhaMayBaoMinh_GW3ID21.Total_kW&amp;1|NhaMayBaoMinh_GW3ID22.Total_kW&amp;1|NhaMayBaoMinh_GW3ID23.Total_kW&amp;1|NhaMayBaoMinh_GW3ID24.Total_kW&amp;1|NhaMayBaoMinh_GW3ID25.Total_kW&amp;1|NhaMayBaoMinh_GW3ID26.Total_kW&amp;1|NhaMayBaoMinh_GW3ID27.Total_kW&amp;1|NhaMayBaoMinh_GW4ID28.Total_kW&amp;1|NhaMayBaoMinh_GW4ID29.Total_kW&amp;1|NhaMayBaoMinh_GW4ID30.Total_kW&amp;1</value>
+    <value>NhaMayBaoMinh_GW1ID1.Total_kW&amp;1|NhaMayBaoMinh_GW1ID2.Total_kW&amp;1|NhaMayBaoMinh_GW1ID3.Total_kW&amp;1|NhaMayBaoMinh_GW1ID4.Total_kW&amp;1|NhaMayBaoMinh_GW1ID5.Total_kW&amp;1|NhaMayBaoMinh_GW1ID6.Total_kW&amp;1|NhaMayBaoMinh_GW1ID7.Total_kW&amp;1|NhaMayBaoMinh_GW1ID8.Total_kW&amp;1|NhaMayBaoMinh_GW1ID9.Total_kW&amp;1|NhaMayBaoMinh_GW1ID10.Total_kW&amp;1|NhaMayBaoMinh_GW1ID11.Total_kW&amp;1|NhaMayBaoMinh_GW1ID12.Total_kW&amp;1|NhaMayBaoMinh_GW2ID13.Total_kW&amp;1|NhaMayBaoMinh_GW2ID14.Total_kW&amp;1|NhaMayBaoMinh_GW2ID15.Total_kW&amp;1|NhaMayBaoMinh_GW2ID16.Total_kW&amp;1|NhaMayBaoMinh_GW3ID20.Total_kW&amp;1|NhaMayBaoMinh_GW3ID21.Total_kW&amp;1|NhaMayBaoMinh_GW3ID22.Total_kW&amp;1|NhaMayBaoMinh_GW3ID23.Total_kW&amp;1|NhaMayBaoMinh_GW3ID24.Total_kW&amp;1|NhaMayBaoMinh_GW3ID25.Total_kW&amp;1|NhaMayBaoMinh_GW3ID26.Total_kW&amp;1|NhaMayBaoMinh_GW3ID27.Total_kW&amp;1|NhaMayBaoMinh_GW4ID28.Total_kW&amp;1|NhaMayBaoMinh_GW4ID29.Total_kW&amp;1|NhaMayBaoMinh_GW4ID30.Total_kW&amp;1|NhaMayBaoMinh_GW2ID17.Total_kW&amp;1|NhaMayBaoMinh_GW2ID18.Total_kW&amp;1|NhaMayBaoMinh_GW2ID19.Total_kW&amp;1</value>
   </data>
   <metadata name="SumEnergyBaoMinh.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>474, 485</value>
+    <value>219, 461</value>
   </metadata>
   <data name="SumEnergyBaoMinh.Collection" xml:space="preserve">
-    <value>NhaMayBaoMinh_GW1ID1.kWh&amp;1|NhaMayBaoMinh_GW1ID2.kWh&amp;1|NhaMayBaoMinh_GW1ID3.kWh&amp;1|NhaMayBaoMinh_GW1ID4.kWh&amp;1|NhaMayBaoMinh_GW1ID5.kWh&amp;1|NhaMayBaoMinh_GW1ID6.kWh&amp;1|NhaMayBaoMinh_GW1ID7.kWh&amp;1|NhaMayBaoMinh_GW1ID8.kWh&amp;1|NhaMayBaoMinh_GW1ID9.kWh&amp;1|NhaMayBaoMinh_GW1ID10.kWh&amp;1|NhaMayBaoMinh_GW1ID11.kWh&amp;1|NhaMayBaoMinh_GW1ID12.kWh&amp;1|NhaMayBaoMinh_GW2ID13.kWh&amp;1|NhaMayBaoMinh_GW2ID14.kWh&amp;1|NhaMayBaoMinh_GW2ID15.kWh&amp;1|NhaMayBaoMinh_GW2ID16.kWh&amp;1|NhaMayBaoMinh_GW3ID20.kWh&amp;1|NhaMayBaoMinh_GW3ID21.kWh&amp;1|NhaMayBaoMinh_GW3ID22.kWh&amp;1|NhaMayBaoMinh_GW3ID23.kWh&amp;1|NhaMayBaoMinh_GW3ID24.kWh&amp;1|NhaMayBaoMinh_GW3ID25.kWh&amp;1|NhaMayBaoMinh_GW3ID26.kWh&amp;1|NhaMayBaoMinh_GW3ID27.kWh&amp;1|NhaMayBaoMinh_GW4ID28.kWh&amp;1|NhaMayBaoMinh_GW4ID29.kWh&amp;1|NhaMayBaoMinh_GW4ID30.kWh&amp;1</value>
+    <value>NhaMayBaoMinh_GW1ID1.kWh&amp;1|NhaMayBaoMinh_GW1ID2.kWh&amp;1|NhaMayBaoMinh_GW1ID3.kWh&amp;1|NhaMayBaoMinh_GW1ID4.kWh&amp;1|NhaMayBaoMinh_GW1ID5.kWh&amp;1|NhaMayBaoMinh_GW1ID6.kWh&amp;1|NhaMayBaoMinh_GW1ID7.kWh&amp;1|NhaMayBaoMinh_GW1ID8.kWh&amp;1|NhaMayBaoMinh_GW1ID9.kWh&amp;1|NhaMayBaoMinh_GW1ID10.kWh&amp;1|NhaMayBaoMinh_GW1ID11.kWh&amp;1|NhaMayBaoMinh_GW1ID12.kWh&amp;1|NhaMayBaoMinh_GW2ID13.kWh&amp;1|NhaMayBaoMinh_GW2ID14.kWh&amp;1|NhaMayBaoMinh_GW2ID15.kWh&amp;1|NhaMayBaoMinh_GW2ID16.kWh&amp;1|NhaMayBaoMinh_GW3ID20.kWh&amp;1|NhaMayBaoMinh_GW3ID21.kWh&amp;1|NhaMayBaoMinh_GW3ID22.kWh&amp;1|NhaMayBaoMinh_GW3ID23.kWh&amp;1|NhaMayBaoMinh_GW3ID24.kWh&amp;1|NhaMayBaoMinh_GW3ID25.kWh&amp;1|NhaMayBaoMinh_GW3ID26.kWh&amp;1|NhaMayBaoMinh_GW3ID27.kWh&amp;1|NhaMayBaoMinh_GW4ID28.kWh&amp;1|NhaMayBaoMinh_GW4ID29.kWh&amp;1|NhaMayBaoMinh_GW4ID30.kWh&amp;1|NhaMayBaoMinh_GW2ID17.kWh&amp;1|NhaMayBaoMinh_GW2ID18.kWh&amp;1|NhaMayBaoMinh_GW2ID19.kWh&amp;1</value>
   </data>
   <metadata name="HOUR_EnergyToolsByKWHBaoMinh.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>223, 485</value>
+    <value>629, 424</value>
   </metadata>
   <metadata name="DAY_EnergyToolsByKWHID1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 485</value>
+    <value>427, 424</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID1.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW1.ID1_Yesterday|Internal_NhaMayBaoMinhENERGY_GW1.ID1_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID1_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID1_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID1_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID1_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID1_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>229, 485</value>
+    <value>873, 424</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID2.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW1.ID2_Yesterday|Internal_NhaMayBaoMinhENERGY_GW1.ID2_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID2_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID2_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID2_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID2_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID2_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID3.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>441, 485</value>
+    <value>17, 461</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID3.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW1.ID3_Yesterday|Internal_NhaMayBaoMinhENERGY_GW1.ID3_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID3_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID3_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID3_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID3_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID3_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID4.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>653, 485</value>
+    <value>540, 461</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID4.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW1.ID4_Yesterday|Internal_NhaMayBaoMinhENERGY_GW1.ID4_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID4_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID4_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID4_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID4_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID4_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID5.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>865, 485</value>
+    <value>742, 461</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID5.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW1.ID5_Yesterday|Internal_NhaMayBaoMinhENERGY_GW1.ID5_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID5_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID5_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID5_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID5_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID5_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID6.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 446</value>
+    <value>433, 387</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID6.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW1.ID6_Yesterday|Internal_NhaMayBaoMinhENERGY_GW1.ID6_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID6_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID6_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID6_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID6_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID6_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID7.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>229, 446</value>
+    <value>635, 387</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID7.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW1.ID7_Yesterday|Internal_NhaMayBaoMinhENERGY_GW1.ID7_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID7_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID7_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID7_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID7_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID7_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID8.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>441, 446</value>
+    <value>837, 387</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID8.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW1.ID8_Yesterday|Internal_NhaMayBaoMinhENERGY_GW1.ID8_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID8_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID8_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID8_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID8_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID8_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID9.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>653, 446</value>
+    <value>17, 424</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID9.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW1.ID9_Yesterday|Internal_NhaMayBaoMinhENERGY_GW1.ID9_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID9_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID9_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID9_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID9_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID9_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID10.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>865, 446</value>
+    <value>219, 424</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID10.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW1.ID10_Yesterday|Internal_NhaMayBaoMinhENERGY_GW1.ID10_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID10_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID10_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID10_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID10_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID10_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID11.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 407</value>
+    <value>419, 350</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID11.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW1.ID11_Yesterday|Internal_NhaMayBaoMinhENERGY_GW1.ID11_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID11_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID11_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID11_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID11_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID11_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID12.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>229, 407</value>
+    <value>627, 350</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID12.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW1.ID12_Yesterday|Internal_NhaMayBaoMinhENERGY_GW1.ID12_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID12_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID12_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID12_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID12_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW1.ID12_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID13.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>441, 407</value>
+    <value>835, 350</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID13.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW2.ID13_Yesterday|Internal_NhaMayBaoMinhENERGY_GW2.ID13_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID13_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID13_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID13_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID13_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID13_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID14.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>653, 407</value>
+    <value>17, 387</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID14.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW2.ID14_Yesterday|Internal_NhaMayBaoMinhENERGY_GW2.ID14_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID14_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID14_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID14_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID14_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID14_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID15.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>865, 407</value>
+    <value>225, 387</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID15.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW2.ID15_Yesterday|Internal_NhaMayBaoMinhENERGY_GW2.ID15_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID15_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID15_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID15_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID15_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID15_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID16.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 368</value>
+    <value>516, 276</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID16.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW2.ID16_Yesterday|Internal_NhaMayBaoMinhENERGY_GW2.ID16_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID16_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID16_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID16_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID16_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID16_7DayAgo</value>
   </data>
+  <metadata name="DAY_EnergyToolsByKWHID17.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>566, 17</value>
+  </metadata>
+  <data name="DAY_EnergyToolsByKWHID17.LastEnergyTagNameCollection" xml:space="preserve">
+    <value>|Internal_NhaMayBaoMinhENERGY_GW2.ID17_Yesterday|Internal_NhaMayBaoMinhENERGY_GW2.ID17_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID17_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID17_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID17_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID17_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID17_7DayAgo</value>
+  </data>
+  <metadata name="DAY_EnergyToolsByKWHID18.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>774, 17</value>
+  </metadata>
+  <data name="DAY_EnergyToolsByKWHID18.LastEnergyTagNameCollection" xml:space="preserve">
+    <value>|Internal_NhaMayBaoMinhENERGY_GW2.ID18_Yesterday|Internal_NhaMayBaoMinhENERGY_GW2.ID18_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID18_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID18_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID18_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID18_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID18_7DayAgo</value>
+  </data>
+  <metadata name="DAY_EnergyToolsByKWHID19.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 54</value>
+  </metadata>
+  <data name="DAY_EnergyToolsByKWHID19.LastEnergyTagNameCollection" xml:space="preserve">
+    <value>|Internal_NhaMayBaoMinhENERGY_GW2.ID19_Yesterday|Internal_NhaMayBaoMinhENERGY_GW2.ID19_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID19_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID19_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID19_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID19_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW2.ID19_7DayAgo</value>
+  </data>
   <metadata name="DAY_EnergyToolsByKWHID20.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>229, 368</value>
+    <value>906, 276</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID20.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW3.ID20_Yesterday|Internal_NhaMayBaoMinhENERGY_GW3.ID20_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID20_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID20_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID20_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID20_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID20_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID21.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>441, 368</value>
+    <value>290, 313</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID21.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW3.ID21_Yesterday|Internal_NhaMayBaoMinhENERGY_GW3.ID21_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID21_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID21_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID21_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID21_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID21_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID22.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>653, 368</value>
+    <value>771, 313</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID22.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW3.ID22_Yesterday|Internal_NhaMayBaoMinhENERGY_GW3.ID22_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID22_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID22_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID22_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID22_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID22_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID23.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>865, 368</value>
+    <value>114, 350</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID23.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW3.ID23_Yesterday|Internal_NhaMayBaoMinhENERGY_GW3.ID23_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID23_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID23_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID23_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID23_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID23_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID24.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 329</value>
+    <value>613, 202</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID24.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW3.ID24_Yesterday|Internal_NhaMayBaoMinhENERGY_GW3.ID24_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID24_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID24_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID24_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID24_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID24_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID25.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>229, 329</value>
+    <value>17, 239</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID25.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW3.ID25_Yesterday|Internal_NhaMayBaoMinhENERGY_GW3.ID25_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID25_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID25_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID25_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID25_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID25_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID26.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>441, 329</value>
+    <value>419, 239</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID26.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW3.ID26_Yesterday|Internal_NhaMayBaoMinhENERGY_GW3.ID26_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID26_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID26_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID26_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID26_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID26_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID27.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>653, 329</value>
+    <value>918, 239</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID27.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW3.ID27_Yesterday|Internal_NhaMayBaoMinhENERGY_GW3.ID27_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID27_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID27_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID27_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID27_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW3.ID27_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID28.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>865, 329</value>
+    <value>211, 276</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID28.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW4.ID28_Yesterday|Internal_NhaMayBaoMinhENERGY_GW4.ID28_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW4.ID28_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW4.ID28_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW4.ID28_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW4.ID28_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW4.ID28_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID29.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 290</value>
+    <value>791, 165</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID29.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW4.ID29_Yesterday|Internal_NhaMayBaoMinhENERGY_GW4.ID29_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW4.ID29_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW4.ID29_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW4.ID29_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW4.ID29_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW4.ID29_7DayAgo</value>
   </data>
   <metadata name="DAY_EnergyToolsByKWHID30.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>229, 290</value>
+    <value>211, 202</value>
   </metadata>
   <data name="DAY_EnergyToolsByKWHID30.LastEnergyTagNameCollection" xml:space="preserve">
     <value>|Internal_NhaMayBaoMinhENERGY_GW4.ID30_Yesterday|Internal_NhaMayBaoMinhENERGY_GW4.ID30_2DayAgo|Internal_NhaMayBaoMinhENERGY_GW4.ID30_3DayAgo|Internal_NhaMayBaoMinhENERGY_GW4.ID30_4DayAgo|Internal_NhaMayBaoMinhENERGY_GW4.ID30_5DayAgo|Internal_NhaMayBaoMinhENERGY_GW4.ID30_6DayAgo|Internal_NhaMayBaoMinhENERGY_GW4.ID30_7DayAgo</value>
   </data>
   <metadata name="AlarmLogID1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 56</value>
+    <value>469, 54</value>
   </metadata>
   <metadata name="AlarmLogID2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>140, 56</value>
+    <value>592, 54</value>
   </metadata>
   <metadata name="AlarmLogID3.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>263, 56</value>
+    <value>715, 54</value>
   </metadata>
   <metadata name="AlarmLogID4.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>386, 56</value>
+    <value>838, 54</value>
   </metadata>
   <metadata name="AlarmLogID5.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>509, 56</value>
+    <value>961, 54</value>
   </metadata>
   <metadata name="AlarmLogID6.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>632, 56</value>
+    <value>17, 91</value>
   </metadata>
   <metadata name="AlarmLogID7.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>755, 56</value>
+    <value>140, 91</value>
   </metadata>
   <metadata name="AlarmLogID8.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>878, 56</value>
+    <value>263, 91</value>
   </metadata>
   <metadata name="AlarmLogID9.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 95</value>
+    <value>386, 91</value>
   </metadata>
   <metadata name="AlarmLogID10.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>140, 95</value>
+    <value>509, 91</value>
   </metadata>
   <metadata name="AlarmLogID11.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>263, 95</value>
+    <value>638, 91</value>
   </metadata>
   <metadata name="AlarmLogID12.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>386, 95</value>
+    <value>767, 91</value>
   </metadata>
   <metadata name="AlarmLogID13.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>509, 95</value>
+    <value>896, 91</value>
   </metadata>
   <metadata name="AlarmLogID14.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>632, 95</value>
+    <value>17, 128</value>
   </metadata>
   <metadata name="AlarmLogID15.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>755, 95</value>
+    <value>146, 128</value>
   </metadata>
   <metadata name="AlarmLogID16.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>878, 95</value>
+    <value>275, 128</value>
+  </metadata>
+  <metadata name="AlarmLogID17.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>146, 17</value>
+  </metadata>
+  <metadata name="AlarmLogID18.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="AlarmLogID19.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>225, 54</value>
   </metadata>
   <metadata name="AlarmLogID20.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 134</value>
+    <value>404, 128</value>
   </metadata>
   <metadata name="AlarmLogID21.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>140, 134</value>
+    <value>533, 128</value>
   </metadata>
   <metadata name="AlarmLogID22.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>263, 134</value>
+    <value>662, 128</value>
   </metadata>
   <metadata name="AlarmLogID23.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>386, 134</value>
+    <value>791, 128</value>
   </metadata>
   <metadata name="AlarmLogID24.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>509, 134</value>
+    <value>920, 128</value>
   </metadata>
   <metadata name="AlarmLogID25.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>632, 134</value>
+    <value>17, 165</value>
   </metadata>
   <metadata name="AlarmLogID26.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>755, 134</value>
+    <value>146, 165</value>
   </metadata>
   <metadata name="AlarmLogID27.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>878, 134</value>
+    <value>275, 165</value>
   </metadata>
   <metadata name="AlarmLogID28.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 173</value>
+    <value>404, 165</value>
   </metadata>
   <metadata name="AlarmLogID29.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>140, 173</value>
+    <value>533, 165</value>
   </metadata>
   <metadata name="AlarmLogID30.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>263, 173</value>
+    <value>662, 165</value>
   </metadata>
   <metadata name="iDataTotal.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>417, 524</value>
+    <value>944, 461</value>
   </metadata>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>555</value>

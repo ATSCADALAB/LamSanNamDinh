@@ -1,725 +1,742 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root>
-  <Driver>
-    <DriverLoader Value="GSDNLSND" />
-    <DriverName Value="ATDriverClient" />
-    <DriverAddress Value="192.168.1.120|5000" />
-    <DriverFT Value="30000" />
-    <DriverRedundancy Value="" />
-  </Driver>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW1ID1" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID1.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID1.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID1.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID1.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID1.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW1ID2" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID2.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID2.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID2.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID2.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID2.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW1ID3" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID3.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID3.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID3.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID3.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID3.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW1ID4" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID4.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID4.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID4.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID4.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID4.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW1ID5" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID5.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID5.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID5.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID5.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID5.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW1ID6" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID6.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID6.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID6.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID6.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID6.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW1ID7" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID7.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID7.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID7.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID7.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID7.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW1ID8" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID8.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID8.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID8.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID8.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID8.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW1ID9" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID9.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID9.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID9.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID9.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID9.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW1ID10" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID10.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID10.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID10.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID10.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID10.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW1ID11" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID11.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID11.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID11.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID11.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID11.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW1ID12" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID12.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID12.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID12.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID12.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID12.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW2ID13" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID13.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID13.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID13.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID13.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID13.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW2ID14" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID14.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID14.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID14.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID14.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID14.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW2ID15" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID15.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID15.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID15.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID15.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID15.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW2ID16" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID16.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID16.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID16.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID16.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID16.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW3ID20" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID20.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID20.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID20.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID20.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID20.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW3ID21" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID21.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID21.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID21.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID21.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID21.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW3ID22" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID22.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID22.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID22.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID22.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID22.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW3ID23" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID23.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID23.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID23.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID23.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID23.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW3ID24" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID24.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID24.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID24.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID24.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID24.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW3ID25" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID25.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID25.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID25.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID25.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID25.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW3ID26" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID26.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID26.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID26.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID26.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID26.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW3ID27" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID27.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID27.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID27.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID27.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID27.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW4ID28" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID28.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID28.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID28.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID28.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID28.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW4ID29" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID29.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID29.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID29.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID29.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID29.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="NhaMayBaoMinh_GW4ID30" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID30.Average_Current" TagName="Average_Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID30.Average_Voltage" TagName="Average_Voltage" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID30.Total_kW" TagName="Total_kW" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID30.Average_PF" TagName="Average_PF" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID30.kWh" TagName="kWh" />
-  </Task>
-
-  <Task>
-    <TaskName Value="Internal_ConfigConfig" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_Config.Config.TimeRate" TagName="TimeRate" />
-  </Task>
-
-  <Task>
-    <TaskName Value="Internal_NhaMayBaoMinhTotal" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Total.PowerTotal" TagName="PowerTotal" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Total.kWhTotal" TagName="kWhTotal" />
-  </Task>
-
-  <Task>
-    <TaskName Value="Internal_NhaMayBaoMinhSUM" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.Current" TagName="Current" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.1HourAgo" TagName="1HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.2HourAgo" TagName="2HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.3HourAgo" TagName="3HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.4HourAgo" TagName="4HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.5HourAgo" TagName="5HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.6HourAgo" TagName="6HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.7HourAgo" TagName="7HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.8HourAgo" TagName="8HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.9HourAgo" TagName="9HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.10HourAgo" TagName="10HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.11HourAgo" TagName="11HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.12HourAgo" TagName="12HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.13HourAgo" TagName="13HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.14HourAgo" TagName="14HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.15HourAgo" TagName="15HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.16HourAgo" TagName="16HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.17HourAgo" TagName="17HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.18HourAgo" TagName="18HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.19HourAgo" TagName="19HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.20HourAgo" TagName="20HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.21HourAgo" TagName="21HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.22HourAgo" TagName="22HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.23HourAgo" TagName="23HourAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.24HourAgo" TagName="24HourAgo" />
-  </Task>
-
-  <Task>
-    <TaskName Value="Internal_NhaMayBaoMinhENERGY_GW1" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID1_Today" TagName="ID1_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID1_Yesterday" TagName="ID1_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID1_2DayAgo" TagName="ID1_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID1_3DayAgo" TagName="ID1_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID1_4DayAgo" TagName="ID1_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID1_5DayAgo" TagName="ID1_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID1_6DayAgo" TagName="ID1_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID1_7DayAgo" TagName="ID1_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID2_Today" TagName="ID2_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID2_Yesterday" TagName="ID2_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID2_2DayAgo" TagName="ID2_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID2_3DayAgo" TagName="ID2_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID2_4DayAgo" TagName="ID2_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID2_5DayAgo" TagName="ID2_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID2_6DayAgo" TagName="ID2_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID2_7DayAgo" TagName="ID2_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID3_Today" TagName="ID3_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID3_Yesterday" TagName="ID3_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID3_2DayAgo" TagName="ID3_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID3_3DayAgo" TagName="ID3_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID3_4DayAgo" TagName="ID3_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID3_5DayAgo" TagName="ID3_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID3_6DayAgo" TagName="ID3_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID3_7DayAgo" TagName="ID3_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID4_Today" TagName="ID4_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID4_Yesterday" TagName="ID4_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID4_2DayAgo" TagName="ID4_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID4_3DayAgo" TagName="ID4_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID4_4DayAgo" TagName="ID4_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID4_5DayAgo" TagName="ID4_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID4_6DayAgo" TagName="ID4_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID4_7DayAgo" TagName="ID4_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID5_Today" TagName="ID5_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID5_Yesterday" TagName="ID5_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID5_2DayAgo" TagName="ID5_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID5_3DayAgo" TagName="ID5_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID5_4DayAgo" TagName="ID5_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID5_5DayAgo" TagName="ID5_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID5_6DayAgo" TagName="ID5_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID5_7DayAgo" TagName="ID5_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID6_Today" TagName="ID6_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID6_Yesterday" TagName="ID6_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID6_2DayAgo" TagName="ID6_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID6_3DayAgo" TagName="ID6_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID6_4DayAgo" TagName="ID6_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID6_5DayAgo" TagName="ID6_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID6_6DayAgo" TagName="ID6_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID6_7DayAgo" TagName="ID6_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID7_Today" TagName="ID7_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID7_Yesterday" TagName="ID7_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID7_2DayAgo" TagName="ID7_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID7_3DayAgo" TagName="ID7_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID7_4DayAgo" TagName="ID7_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID7_5DayAgo" TagName="ID7_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID7_6DayAgo" TagName="ID7_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID7_7DayAgo" TagName="ID7_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID8_Today" TagName="ID8_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID8_Yesterday" TagName="ID8_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID8_2DayAgo" TagName="ID8_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID8_3DayAgo" TagName="ID8_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID8_4DayAgo" TagName="ID8_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID8_5DayAgo" TagName="ID8_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID8_6DayAgo" TagName="ID8_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID8_7DayAgo" TagName="ID8_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID9_Today" TagName="ID9_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID9_Yesterday" TagName="ID9_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID9_2DayAgo" TagName="ID9_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID9_3DayAgo" TagName="ID9_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID9_4DayAgo" TagName="ID9_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID9_5DayAgo" TagName="ID9_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID9_6DayAgo" TagName="ID9_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID9_7DayAgo" TagName="ID9_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID10_Today" TagName="ID10_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID10_Yesterday" TagName="ID10_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID10_2DayAgo" TagName="ID10_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID10_3DayAgo" TagName="ID10_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID10_4DayAgo" TagName="ID10_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID10_5DayAgo" TagName="ID10_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID10_6DayAgo" TagName="ID10_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID10_7DayAgo" TagName="ID10_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID11_Today" TagName="ID11_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID11_Yesterday" TagName="ID11_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID11_2DayAgo" TagName="ID11_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID11_3DayAgo" TagName="ID11_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID11_4DayAgo" TagName="ID11_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID11_5DayAgo" TagName="ID11_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID11_6DayAgo" TagName="ID11_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID11_7DayAgo" TagName="ID11_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID12_Today" TagName="ID12_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID12_Yesterday" TagName="ID12_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID12_2DayAgo" TagName="ID12_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID12_3DayAgo" TagName="ID12_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID12_4DayAgo" TagName="ID12_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID12_5DayAgo" TagName="ID12_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID12_6DayAgo" TagName="ID12_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID12_7DayAgo" TagName="ID12_7DayAgo" />
-  </Task>
-
-  <Task>
-    <TaskName Value="Internal_NhaMayBaoMinhENERGY_GW2" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID13_Today" TagName="ID13_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID13_Yesterday" TagName="ID13_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID13_2DayAgo" TagName="ID13_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID13_3DayAgo" TagName="ID13_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID13_4DayAgo" TagName="ID13_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID13_5DayAgo" TagName="ID13_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID13_6DayAgo" TagName="ID13_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID13_7DayAgo" TagName="ID13_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID14_Today" TagName="ID14_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID14_Yesterday" TagName="ID14_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID14_2DayAgo" TagName="ID14_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID14_3DayAgo" TagName="ID14_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID14_4DayAgo" TagName="ID14_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID14_5DayAgo" TagName="ID14_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID14_6DayAgo" TagName="ID14_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID14_7DayAgo" TagName="ID14_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID15_Today" TagName="ID15_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID15_Yesterday" TagName="ID15_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID15_2DayAgo" TagName="ID15_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID15_3DayAgo" TagName="ID15_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID15_4DayAgo" TagName="ID15_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID15_5DayAgo" TagName="ID15_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID15_6DayAgo" TagName="ID15_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID15_7DayAgo" TagName="ID15_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID16_Today" TagName="ID16_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID16_Yesterday" TagName="ID16_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID16_2DayAgo" TagName="ID16_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID16_3DayAgo" TagName="ID16_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID16_4DayAgo" TagName="ID16_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID16_5DayAgo" TagName="ID16_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID16_6DayAgo" TagName="ID16_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID16_7DayAgo" TagName="ID16_7DayAgo" />
-  </Task>
-
-  <Task>
-    <TaskName Value="Internal_NhaMayBaoMinhENERGY_GW3" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID20_Today" TagName="ID20_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID20_Yesterday" TagName="ID20_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID20_2DayAgo" TagName="ID20_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID20_3DayAgo" TagName="ID20_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID20_4DayAgo" TagName="ID20_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID20_5DayAgo" TagName="ID20_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID20_6DayAgo" TagName="ID20_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID20_7DayAgo" TagName="ID20_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID21_Today" TagName="ID21_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID21_Yesterday" TagName="ID21_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID21_2DayAgo" TagName="ID21_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID21_3DayAgo" TagName="ID21_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID21_4DayAgo" TagName="ID21_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID21_5DayAgo" TagName="ID21_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID21_6DayAgo" TagName="ID21_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID21_7DayAgo" TagName="ID21_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID22_Today" TagName="ID22_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID22_Yesterday" TagName="ID22_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID22_2DayAgo" TagName="ID22_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID22_3DayAgo" TagName="ID22_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID22_4DayAgo" TagName="ID22_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID22_5DayAgo" TagName="ID22_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID22_6DayAgo" TagName="ID22_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID22_7DayAgo" TagName="ID22_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID23_Today" TagName="ID23_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID23_Yesterday" TagName="ID23_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID23_2DayAgo" TagName="ID23_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID23_3DayAgo" TagName="ID23_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID23_4DayAgo" TagName="ID23_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID23_5DayAgo" TagName="ID23_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID23_6DayAgo" TagName="ID23_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID23_7DayAgo" TagName="ID23_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID24_Today" TagName="ID24_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID24_Yesterday" TagName="ID24_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID24_2DayAgo" TagName="ID24_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID24_3DayAgo" TagName="ID24_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID24_4DayAgo" TagName="ID24_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID24_5DayAgo" TagName="ID24_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID24_6DayAgo" TagName="ID24_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID24_7DayAgo" TagName="ID24_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID25_Today" TagName="ID25_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID25_Yesterday" TagName="ID25_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID25_2DayAgo" TagName="ID25_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID25_3DayAgo" TagName="ID25_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID25_4DayAgo" TagName="ID25_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID25_5DayAgo" TagName="ID25_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID25_6DayAgo" TagName="ID25_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID25_7DayAgo" TagName="ID25_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID26_Today" TagName="ID26_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID26_Yesterday" TagName="ID26_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID26_2DayAgo" TagName="ID26_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID26_3DayAgo" TagName="ID26_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID26_4DayAgo" TagName="ID26_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID26_5DayAgo" TagName="ID26_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID26_6DayAgo" TagName="ID26_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID26_7DayAgo" TagName="ID26_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID27_Today" TagName="ID27_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID27_Yesterday" TagName="ID27_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID27_2DayAgo" TagName="ID27_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID27_3DayAgo" TagName="ID27_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID27_4DayAgo" TagName="ID27_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID27_5DayAgo" TagName="ID27_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID27_6DayAgo" TagName="ID27_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID27_7DayAgo" TagName="ID27_7DayAgo" />
-  </Task>
-
-  <Task>
-    <TaskName Value="Internal_NhaMayBaoMinhENERGY_GW4" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID28_Today" TagName="ID28_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID28_Yesterday" TagName="ID28_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID28_2DayAgo" TagName="ID28_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID28_3DayAgo" TagName="ID28_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID28_4DayAgo" TagName="ID28_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID28_5DayAgo" TagName="ID28_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID28_6DayAgo" TagName="ID28_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID28_7DayAgo" TagName="ID28_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID29_Today" TagName="ID29_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID29_Yesterday" TagName="ID29_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID29_2DayAgo" TagName="ID29_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID29_3DayAgo" TagName="ID29_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID29_4DayAgo" TagName="ID29_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID29_5DayAgo" TagName="ID29_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID29_6DayAgo" TagName="ID29_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID29_7DayAgo" TagName="ID29_7DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID30_Today" TagName="ID30_Today" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID30_Yesterday" TagName="ID30_Yesterday" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID30_2DayAgo" TagName="ID30_2DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID30_3DayAgo" TagName="ID30_3DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID30_4DayAgo" TagName="ID30_4DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID30_5DayAgo" TagName="ID30_5DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID30_6DayAgo" TagName="ID30_6DayAgo" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID30_7DayAgo" TagName="ID30_7DayAgo" />
-  </Task>
-
-  <Task>
-    <TaskName Value="Internal_NhaMayBaoMinhSET_GW1" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID1_HighVol" TagName="ID1_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID1_LowVol" TagName="ID1_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID1_HighCurrent" TagName="ID1_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID2_HighVol" TagName="ID2_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID2_LowVol" TagName="ID2_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID2_HighCurrent" TagName="ID2_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID3_HighVol" TagName="ID3_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID3_LowVol" TagName="ID3_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID3_HighCurrent" TagName="ID3_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID4_HighVol" TagName="ID4_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID4_LowVol" TagName="ID4_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID4_HighCurrent" TagName="ID4_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID5_HighVol" TagName="ID5_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID5_LowVol" TagName="ID5_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID5_HighCurrent" TagName="ID5_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID6_HighVol" TagName="ID6_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID6_LowVol" TagName="ID6_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID6_HighCurrent" TagName="ID6_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID7_HighVol" TagName="ID7_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID7_LowVol" TagName="ID7_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID7_HighCurrent" TagName="ID7_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID8_HighVol" TagName="ID8_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID8_LowVol" TagName="ID8_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID8_HighCurrent" TagName="ID8_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID9_HighVol" TagName="ID9_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID9_LowVol" TagName="ID9_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID9_HighCurrent" TagName="ID9_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID10_HighVol" TagName="ID10_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID10_LowVol" TagName="ID10_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID10_HighCurrent" TagName="ID10_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID11_HighVol" TagName="ID11_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID11_LowVol" TagName="ID11_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID11_HighCurrent" TagName="ID11_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID12_HighVol" TagName="ID12_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID12_LowVol" TagName="ID12_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID12_HighCurrent" TagName="ID12_HighCurrent" />
-  </Task>
-
-  <Task>
-    <TaskName Value="Internal_NhaMayBaoMinhSET_GW2" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID13_HighVol" TagName="ID13_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID13_LowVol" TagName="ID13_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID13_HighCurrent" TagName="ID13_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID14_HighVol" TagName="ID14_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID14_LowVol" TagName="ID14_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID14_HighCurrent" TagName="ID14_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID15_HighVol" TagName="ID15_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID15_LowVol" TagName="ID15_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID15_HighCurrent" TagName="ID15_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID16_HighVol" TagName="ID16_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID16_LowVol" TagName="ID16_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID16_HighCurrent" TagName="ID16_HighCurrent" />
-  </Task>
-
-  <Task>
-    <TaskName Value="Internal_NhaMayBaoMinhSET_GW3" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID20_HighVol" TagName="ID20_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID20_LowVol" TagName="ID20_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID20_HighCurrent" TagName="ID20_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID21_HighVol" TagName="ID21_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID21_LowVol" TagName="ID21_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID21_HighCurrent" TagName="ID21_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID22_HighVol" TagName="ID22_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID22_LowVol" TagName="ID22_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID22_HighCurrent" TagName="ID22_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID23_HighVol" TagName="ID23_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID23_LowVol" TagName="ID23_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID23_HighCurrent" TagName="ID23_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID24_HighVol" TagName="ID24_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID24_LowVol" TagName="ID24_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID24_HighCurrent" TagName="ID24_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID25_HighVol" TagName="ID25_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID25_LowVol" TagName="ID25_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID25_HighCurrent" TagName="ID25_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID26_HighVol" TagName="ID26_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID26_LowVol" TagName="ID26_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID26_HighCurrent" TagName="ID26_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID27_HighVol" TagName="ID27_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID27_LowVol" TagName="ID27_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID27_HighCurrent" TagName="ID27_HighCurrent" />
-  </Task>
-
-  <Task>
-    <TaskName Value="Internal_NhaMayBaoMinhSET_GW4" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID28_HighVol" TagName="ID28_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID28_LowVol" TagName="ID28_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID28_HighCurrent" TagName="ID28_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID29_HighVol" TagName="ID29_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID29_LowVol" TagName="ID29_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID29_HighCurrent" TagName="ID29_HighCurrent" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID30_HighVol" TagName="ID30_HighVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID30_LowVol" TagName="ID30_LowVol" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID30_HighCurrent" TagName="ID30_HighCurrent" />
-  </Task>
-
-  <Task>
-    <TaskName Value="Internal_NhaMayBaoMinhCard" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID1" TagName="NameID1" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID2" TagName="NameID2" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID3" TagName="NameID3" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID4" TagName="NameID4" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID5" TagName="NameID5" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID6" TagName="NameID6" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID7" TagName="NameID7" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID8" TagName="NameID8" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID9" TagName="NameID9" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID10" TagName="NameID10" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID11" TagName="NameID11" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID12" TagName="NameID12" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID13" TagName="NameID13" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID14" TagName="NameID14" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID15" TagName="NameID15" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID16" TagName="NameID16" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID20" TagName="NameID20" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID21" TagName="NameID21" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID22" TagName="NameID22" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID23" TagName="NameID23" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID24" TagName="NameID24" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID25" TagName="NameID25" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID26" TagName="NameID26" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID27" TagName="NameID27" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID28" TagName="NameID28" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID29" TagName="NameID29" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID30" TagName="NameID30" />
-  </Task>
-
-  <Task>
-    <TaskName Value="Internal_NhaMayBaoMinhLink" />
-    <TaskRate Value="100" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID1" TagName="NameID1" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID2" TagName="NameID2" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID3" TagName="NameID3" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID4" TagName="NameID4" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID5" TagName="NameID5" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID6" TagName="NameID6" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID7" TagName="NameID7" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID8" TagName="NameID8" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID9" TagName="NameID9" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID10" TagName="NameID10" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID11" TagName="NameID11" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID12" TagName="NameID12" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID13" TagName="NameID13" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID14" TagName="NameID14" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID15" TagName="NameID15" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID16" TagName="NameID16" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID20" TagName="NameID20" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID21" TagName="NameID21" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID22" TagName="NameID22" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID23" TagName="NameID23" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID24" TagName="NameID24" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID25" TagName="NameID25" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID26" TagName="NameID26" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID27" TagName="NameID27" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID28" TagName="NameID28" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID29" TagName="NameID29" />
-    <Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID30" TagName="NameID30" />
-  </Task>
-
+	<Driver>
+		<DriverLoader Value="GSDNLSND"/>
+		<DriverName Value="ATDriverClient"/>
+		<DriverAddress Value="192.168.1.120|5000"/>
+		<DriverFT Value="30000"/>
+		<DriverRedundancy Value=""/>
+	</Driver>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW1ID1"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID1.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID1.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID1.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID1.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID1.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW1ID2"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID2.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID2.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID2.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID2.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID2.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW1ID3"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID3.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID3.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID3.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID3.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID3.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW1ID4"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID4.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID4.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID4.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID4.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID4.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW1ID5"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID5.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID5.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID5.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID5.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID5.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW1ID6"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID6.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID6.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID6.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID6.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID6.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW1ID7"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID7.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID7.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID7.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID7.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID7.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW1ID8"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID8.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID8.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID8.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID8.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID8.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW1ID9"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID9.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID9.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID9.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID9.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID9.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW1ID10"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID10.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID10.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID10.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID10.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID10.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW1ID11"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID11.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID11.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID11.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID11.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID11.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW1ID12"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID12.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID12.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID12.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID12.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW1.ID12.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW2ID13"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID13.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID13.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID13.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID13.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID13.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW2ID14"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID14.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID14.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID14.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID14.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID14.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW2ID15"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID15.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID15.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID15.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID15.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID15.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW2ID16"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID16.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID16.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID16.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID16.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID16.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW2ID17"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID17.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID17.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID17.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID17.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID17.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW2ID19"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID19.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID19.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID19.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID19.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID19.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW2ID19"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID19.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID19.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID19.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID19.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW2.ID19.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW3ID20"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID20.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID20.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID20.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID20.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID20.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW3ID21"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID21.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID21.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID21.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID21.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID21.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW3ID22"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID22.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID22.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID22.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID22.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID22.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW3ID23"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID23.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID23.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID23.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID23.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID23.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW3ID24"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID24.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID24.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID24.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID24.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID24.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW3ID25"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID25.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID25.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID25.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID25.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID25.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW3ID26"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID26.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID26.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID26.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID26.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID26.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW3ID27"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID27.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID27.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID27.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID27.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW3.ID27.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW4ID28"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID28.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID28.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID28.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID28.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID28.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW4ID29"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID29.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID29.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID29.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID29.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID29.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="NhaMayBaoMinh_GW4ID30"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID30.Average_Current" TagName="Average_Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID30.Average_Voltage" TagName="Average_Voltage"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID30.Total_kW" TagName="Total_kW"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID30.Average_PF" TagName="Average_PF"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="NhaMayBaoMinh_GW4.ID30.kWh" TagName="kWh"/>
+	</Task>
+	<Task>
+		<TaskName Value="Internal_ConfigConfig"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_Config.Config.TimeRate" TagName="TimeRate"/>
+	</Task>
+	<Task>
+		<TaskName Value="Internal_NhaMayBaoMinhTotal"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Total.PowerTotal" TagName="PowerTotal"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Total.kWhTotal" TagName="kWhTotal"/>
+	</Task>
+	<Task>
+		<TaskName Value="Internal_NhaMayBaoMinhSUM"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.Current" TagName="Current"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.1HourAgo" TagName="1HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.2HourAgo" TagName="2HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.3HourAgo" TagName="3HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.4HourAgo" TagName="4HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.5HourAgo" TagName="5HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.6HourAgo" TagName="6HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.7HourAgo" TagName="7HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.8HourAgo" TagName="8HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.9HourAgo" TagName="9HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.10HourAgo" TagName="10HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.11HourAgo" TagName="11HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.12HourAgo" TagName="12HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.13HourAgo" TagName="13HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.14HourAgo" TagName="14HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.15HourAgo" TagName="15HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.16HourAgo" TagName="16HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.17HourAgo" TagName="17HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.18HourAgo" TagName="18HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.19HourAgo" TagName="19HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.20HourAgo" TagName="20HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.21HourAgo" TagName="21HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.22HourAgo" TagName="22HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.23HourAgo" TagName="23HourAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SUM.24HourAgo" TagName="24HourAgo"/>
+	</Task>
+	<Task>
+		<TaskName Value="Internal_NhaMayBaoMinhENERGY_GW1"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID1_Today" TagName="ID1_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID1_Yesterday" TagName="ID1_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID1_2DayAgo" TagName="ID1_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID1_3DayAgo" TagName="ID1_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID1_4DayAgo" TagName="ID1_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID1_5DayAgo" TagName="ID1_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID1_6DayAgo" TagName="ID1_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID1_7DayAgo" TagName="ID1_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID2_Today" TagName="ID2_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID2_Yesterday" TagName="ID2_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID2_2DayAgo" TagName="ID2_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID2_3DayAgo" TagName="ID2_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID2_4DayAgo" TagName="ID2_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID2_5DayAgo" TagName="ID2_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID2_6DayAgo" TagName="ID2_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID2_7DayAgo" TagName="ID2_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID3_Today" TagName="ID3_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID3_Yesterday" TagName="ID3_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID3_2DayAgo" TagName="ID3_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID3_3DayAgo" TagName="ID3_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID3_4DayAgo" TagName="ID3_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID3_5DayAgo" TagName="ID3_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID3_6DayAgo" TagName="ID3_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID3_7DayAgo" TagName="ID3_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID4_Today" TagName="ID4_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID4_Yesterday" TagName="ID4_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID4_2DayAgo" TagName="ID4_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID4_3DayAgo" TagName="ID4_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID4_4DayAgo" TagName="ID4_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID4_5DayAgo" TagName="ID4_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID4_6DayAgo" TagName="ID4_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID4_7DayAgo" TagName="ID4_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID5_Today" TagName="ID5_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID5_Yesterday" TagName="ID5_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID5_2DayAgo" TagName="ID5_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID5_3DayAgo" TagName="ID5_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID5_4DayAgo" TagName="ID5_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID5_5DayAgo" TagName="ID5_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID5_6DayAgo" TagName="ID5_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID5_7DayAgo" TagName="ID5_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID6_Today" TagName="ID6_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID6_Yesterday" TagName="ID6_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID6_2DayAgo" TagName="ID6_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID6_3DayAgo" TagName="ID6_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID6_4DayAgo" TagName="ID6_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID6_5DayAgo" TagName="ID6_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID6_6DayAgo" TagName="ID6_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID6_7DayAgo" TagName="ID6_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID7_Today" TagName="ID7_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID7_Yesterday" TagName="ID7_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID7_2DayAgo" TagName="ID7_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID7_3DayAgo" TagName="ID7_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID7_4DayAgo" TagName="ID7_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID7_5DayAgo" TagName="ID7_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID7_6DayAgo" TagName="ID7_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID7_7DayAgo" TagName="ID7_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID8_Today" TagName="ID8_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID8_Yesterday" TagName="ID8_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID8_2DayAgo" TagName="ID8_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID8_3DayAgo" TagName="ID8_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID8_4DayAgo" TagName="ID8_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID8_5DayAgo" TagName="ID8_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID8_6DayAgo" TagName="ID8_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID8_7DayAgo" TagName="ID8_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID9_Today" TagName="ID9_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID9_Yesterday" TagName="ID9_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID9_2DayAgo" TagName="ID9_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID9_3DayAgo" TagName="ID9_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID9_4DayAgo" TagName="ID9_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID9_5DayAgo" TagName="ID9_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID9_6DayAgo" TagName="ID9_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID9_7DayAgo" TagName="ID9_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID10_Today" TagName="ID10_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID10_Yesterday" TagName="ID10_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID10_2DayAgo" TagName="ID10_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID10_3DayAgo" TagName="ID10_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID10_4DayAgo" TagName="ID10_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID10_5DayAgo" TagName="ID10_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID10_6DayAgo" TagName="ID10_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID10_7DayAgo" TagName="ID10_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID11_Today" TagName="ID11_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID11_Yesterday" TagName="ID11_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID11_2DayAgo" TagName="ID11_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID11_3DayAgo" TagName="ID11_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID11_4DayAgo" TagName="ID11_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID11_5DayAgo" TagName="ID11_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID11_6DayAgo" TagName="ID11_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID11_7DayAgo" TagName="ID11_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID12_Today" TagName="ID12_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID12_Yesterday" TagName="ID12_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID12_2DayAgo" TagName="ID12_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID12_3DayAgo" TagName="ID12_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID12_4DayAgo" TagName="ID12_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID12_5DayAgo" TagName="ID12_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID12_6DayAgo" TagName="ID12_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW1.ID12_7DayAgo" TagName="ID12_7DayAgo"/>
+	</Task>
+	<Task>
+		<TaskName Value="Internal_NhaMayBaoMinhENERGY_GW2"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID13_Today" TagName="ID13_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID13_Yesterday" TagName="ID13_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID13_2DayAgo" TagName="ID13_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID13_3DayAgo" TagName="ID13_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID13_4DayAgo" TagName="ID13_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID13_5DayAgo" TagName="ID13_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID13_6DayAgo" TagName="ID13_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID13_7DayAgo" TagName="ID13_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID14_Today" TagName="ID14_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID14_Yesterday" TagName="ID14_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID14_2DayAgo" TagName="ID14_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID14_3DayAgo" TagName="ID14_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID14_4DayAgo" TagName="ID14_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID14_5DayAgo" TagName="ID14_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID14_6DayAgo" TagName="ID14_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID14_7DayAgo" TagName="ID14_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID15_Today" TagName="ID15_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID15_Yesterday" TagName="ID15_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID15_2DayAgo" TagName="ID15_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID15_3DayAgo" TagName="ID15_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID15_4DayAgo" TagName="ID15_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID15_5DayAgo" TagName="ID15_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID15_6DayAgo" TagName="ID15_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID15_7DayAgo" TagName="ID15_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID16_Today" TagName="ID16_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID16_Yesterday" TagName="ID16_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID16_2DayAgo" TagName="ID16_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID16_3DayAgo" TagName="ID16_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID16_4DayAgo" TagName="ID16_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID16_5DayAgo" TagName="ID16_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID16_6DayAgo" TagName="ID16_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID16_7DayAgo" TagName="ID16_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID17_Today" TagName="ID17_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID17_Yesterday" TagName="ID17_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID17_2DayAgo" TagName="ID17_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID17_3DayAgo" TagName="ID17_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID17_4DayAgo" TagName="ID17_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID17_5DayAgo" TagName="ID17_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID17_6DayAgo" TagName="ID17_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID17_7DayAgo" TagName="ID17_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID19_Today" TagName="ID19_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID19_Yesterday" TagName="ID19_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID19_2DayAgo" TagName="ID19_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID19_3DayAgo" TagName="ID19_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID19_4DayAgo" TagName="ID19_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID19_5DayAgo" TagName="ID19_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID19_6DayAgo" TagName="ID19_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW2.ID19_7DayAgo" TagName="ID19_7DayAgo"/>
+	</Task>
+	<Task>
+		<TaskName Value="Internal_NhaMayBaoMinhENERGY_GW3"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID20_Today" TagName="ID20_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID20_Yesterday" TagName="ID20_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID20_2DayAgo" TagName="ID20_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID20_3DayAgo" TagName="ID20_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID20_4DayAgo" TagName="ID20_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID20_5DayAgo" TagName="ID20_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID20_6DayAgo" TagName="ID20_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID20_7DayAgo" TagName="ID20_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID21_Today" TagName="ID21_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID21_Yesterday" TagName="ID21_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID21_2DayAgo" TagName="ID21_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID21_3DayAgo" TagName="ID21_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID21_4DayAgo" TagName="ID21_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID21_5DayAgo" TagName="ID21_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID21_6DayAgo" TagName="ID21_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID21_7DayAgo" TagName="ID21_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID22_Today" TagName="ID22_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID22_Yesterday" TagName="ID22_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID22_2DayAgo" TagName="ID22_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID22_3DayAgo" TagName="ID22_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID22_4DayAgo" TagName="ID22_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID22_5DayAgo" TagName="ID22_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID22_6DayAgo" TagName="ID22_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID22_7DayAgo" TagName="ID22_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID23_Today" TagName="ID23_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID23_Yesterday" TagName="ID23_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID23_2DayAgo" TagName="ID23_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID23_3DayAgo" TagName="ID23_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID23_4DayAgo" TagName="ID23_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID23_5DayAgo" TagName="ID23_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID23_6DayAgo" TagName="ID23_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID23_7DayAgo" TagName="ID23_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID24_Today" TagName="ID24_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID24_Yesterday" TagName="ID24_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID24_2DayAgo" TagName="ID24_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID24_3DayAgo" TagName="ID24_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID24_4DayAgo" TagName="ID24_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID24_5DayAgo" TagName="ID24_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID24_6DayAgo" TagName="ID24_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID24_7DayAgo" TagName="ID24_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID25_Today" TagName="ID25_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID25_Yesterday" TagName="ID25_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID25_2DayAgo" TagName="ID25_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID25_3DayAgo" TagName="ID25_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID25_4DayAgo" TagName="ID25_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID25_5DayAgo" TagName="ID25_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID25_6DayAgo" TagName="ID25_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID25_7DayAgo" TagName="ID25_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID26_Today" TagName="ID26_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID26_Yesterday" TagName="ID26_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID26_2DayAgo" TagName="ID26_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID26_3DayAgo" TagName="ID26_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID26_4DayAgo" TagName="ID26_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID26_5DayAgo" TagName="ID26_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID26_6DayAgo" TagName="ID26_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID26_7DayAgo" TagName="ID26_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID27_Today" TagName="ID27_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID27_Yesterday" TagName="ID27_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID27_2DayAgo" TagName="ID27_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID27_3DayAgo" TagName="ID27_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID27_4DayAgo" TagName="ID27_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID27_5DayAgo" TagName="ID27_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID27_6DayAgo" TagName="ID27_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW3.ID27_7DayAgo" TagName="ID27_7DayAgo"/>
+	</Task>
+	<Task>
+		<TaskName Value="Internal_NhaMayBaoMinhENERGY_GW4"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID28_Today" TagName="ID28_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID28_Yesterday" TagName="ID28_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID28_2DayAgo" TagName="ID28_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID28_3DayAgo" TagName="ID28_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID28_4DayAgo" TagName="ID28_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID28_5DayAgo" TagName="ID28_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID28_6DayAgo" TagName="ID28_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID28_7DayAgo" TagName="ID28_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID29_Today" TagName="ID29_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID29_Yesterday" TagName="ID29_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID29_2DayAgo" TagName="ID29_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID29_3DayAgo" TagName="ID29_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID29_4DayAgo" TagName="ID29_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID29_5DayAgo" TagName="ID29_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID29_6DayAgo" TagName="ID29_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID29_7DayAgo" TagName="ID29_7DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID30_Today" TagName="ID30_Today"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID30_Yesterday" TagName="ID30_Yesterday"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID30_2DayAgo" TagName="ID30_2DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID30_3DayAgo" TagName="ID30_3DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID30_4DayAgo" TagName="ID30_4DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID30_5DayAgo" TagName="ID30_5DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID30_6DayAgo" TagName="ID30_6DayAgo"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.ENERGY_GW4.ID30_7DayAgo" TagName="ID30_7DayAgo"/>
+	</Task>
+	<Task>
+		<TaskName Value="Internal_NhaMayBaoMinhSET_GW1"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID1_HighVol" TagName="ID1_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID1_LowVol" TagName="ID1_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID1_HighCurrent" TagName="ID1_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID2_HighVol" TagName="ID2_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID2_LowVol" TagName="ID2_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID2_HighCurrent" TagName="ID2_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID3_HighVol" TagName="ID3_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID3_LowVol" TagName="ID3_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID3_HighCurrent" TagName="ID3_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID4_HighVol" TagName="ID4_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID4_LowVol" TagName="ID4_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID4_HighCurrent" TagName="ID4_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID5_HighVol" TagName="ID5_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID5_LowVol" TagName="ID5_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID5_HighCurrent" TagName="ID5_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID6_HighVol" TagName="ID6_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID6_LowVol" TagName="ID6_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID6_HighCurrent" TagName="ID6_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID7_HighVol" TagName="ID7_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID7_LowVol" TagName="ID7_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID7_HighCurrent" TagName="ID7_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID8_HighVol" TagName="ID8_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID8_LowVol" TagName="ID8_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID8_HighCurrent" TagName="ID8_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID9_HighVol" TagName="ID9_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID9_LowVol" TagName="ID9_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID9_HighCurrent" TagName="ID9_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID10_HighVol" TagName="ID10_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID10_LowVol" TagName="ID10_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID10_HighCurrent" TagName="ID10_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID11_HighVol" TagName="ID11_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID11_LowVol" TagName="ID11_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID11_HighCurrent" TagName="ID11_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID12_HighVol" TagName="ID12_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID12_LowVol" TagName="ID12_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW1.ID12_HighCurrent" TagName="ID12_HighCurrent"/>
+	</Task>
+	<Task>
+		<TaskName Value="Internal_NhaMayBaoMinhSET_GW2"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID13_HighVol" TagName="ID13_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID13_LowVol" TagName="ID13_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID13_HighCurrent" TagName="ID13_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID14_HighVol" TagName="ID14_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID14_LowVol" TagName="ID14_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID14_HighCurrent" TagName="ID14_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID15_HighVol" TagName="ID15_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID15_LowVol" TagName="ID15_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID15_HighCurrent" TagName="ID15_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID16_HighVol" TagName="ID16_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID16_LowVol" TagName="ID16_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID16_HighCurrent" TagName="ID16_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID17_HighVol" TagName="ID17_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID17_LowVol" TagName="ID17_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID17_HighCurrent" TagName="ID17_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID18_HighVol" TagName="ID18_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID18_LowVol" TagName="ID18_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID18_HighCurrent" TagName="ID18_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID19_HighVol" TagName="ID19_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID19_LowVol" TagName="ID19_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW2.ID19_HighCurrent" TagName="ID19_HighCurrent"/>
+	</Task>
+	<Task>
+		<TaskName Value="Internal_NhaMayBaoMinhSET_GW3"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID20_HighVol" TagName="ID20_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID20_LowVol" TagName="ID20_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID20_HighCurrent" TagName="ID20_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID21_HighVol" TagName="ID21_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID21_LowVol" TagName="ID21_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID21_HighCurrent" TagName="ID21_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID22_HighVol" TagName="ID22_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID22_LowVol" TagName="ID22_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID22_HighCurrent" TagName="ID22_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID23_HighVol" TagName="ID23_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID23_LowVol" TagName="ID23_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID23_HighCurrent" TagName="ID23_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID24_HighVol" TagName="ID24_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID24_LowVol" TagName="ID24_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID24_HighCurrent" TagName="ID24_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID25_HighVol" TagName="ID25_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID25_LowVol" TagName="ID25_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID25_HighCurrent" TagName="ID25_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID26_HighVol" TagName="ID26_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID26_LowVol" TagName="ID26_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID26_HighCurrent" TagName="ID26_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID27_HighVol" TagName="ID27_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID27_LowVol" TagName="ID27_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW3.ID27_HighCurrent" TagName="ID27_HighCurrent"/>
+	</Task>
+	<Task>
+		<TaskName Value="Internal_NhaMayBaoMinhSET_GW4"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID28_HighVol" TagName="ID28_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID28_LowVol" TagName="ID28_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID28_HighCurrent" TagName="ID28_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID29_HighVol" TagName="ID29_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID29_LowVol" TagName="ID29_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID29_HighCurrent" TagName="ID29_HighCurrent"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID30_HighVol" TagName="ID30_HighVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID30_LowVol" TagName="ID30_LowVol"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.SET_GW4.ID30_HighCurrent" TagName="ID30_HighCurrent"/>
+	</Task>
+	<Task>
+		<TaskName Value="Internal_NhaMayBaoMinhCard"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID1" TagName="NameID1"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID2" TagName="NameID2"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID3" TagName="NameID3"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID4" TagName="NameID4"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID5" TagName="NameID5"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID6" TagName="NameID6"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID7" TagName="NameID7"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID8" TagName="NameID8"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID9" TagName="NameID9"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID10" TagName="NameID10"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID11" TagName="NameID11"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID12" TagName="NameID12"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID13" TagName="NameID13"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID14" TagName="NameID14"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID15" TagName="NameID15"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID16" TagName="NameID16"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID17" TagName="NameID17"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID18" TagName="NameID18"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID19" TagName="NameID19"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID20" TagName="NameID20"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID21" TagName="NameID21"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID22" TagName="NameID22"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID23" TagName="NameID23"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID24" TagName="NameID24"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID25" TagName="NameID25"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID26" TagName="NameID26"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID27" TagName="NameID27"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID28" TagName="NameID28"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID29" TagName="NameID29"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Card.NameID30" TagName="NameID30"/>
+	</Task>
+	<Task>
+		<TaskName Value="Internal_NhaMayBaoMinhLink"/>
+		<TaskRate Value="100"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID1" TagName="NameID1"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID2" TagName="NameID2"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID3" TagName="NameID3"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID4" TagName="NameID4"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID5" TagName="NameID5"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID6" TagName="NameID6"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID7" TagName="NameID7"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID8" TagName="NameID8"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID9" TagName="NameID9"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID10" TagName="NameID10"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID11" TagName="NameID11"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID12" TagName="NameID12"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID13" TagName="NameID13"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID14" TagName="NameID14"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID15" TagName="NameID15"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID16" TagName="NameID16"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID17" TagName="NameID17"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID18" TagName="NameID18"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID19" TagName="NameID19"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID20" TagName="NameID20"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID21" TagName="NameID21"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID22" TagName="NameID22"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID23" TagName="NameID23"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID24" TagName="NameID24"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID25" TagName="NameID25"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID26" TagName="NameID26"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID27" TagName="NameID27"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID28" TagName="NameID28"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID29" TagName="NameID29"/>
+		<Tag Offset="0" Scale="1" DriverLoader="GSDNLSND" TagAddress="Internal_NhaMayBaoMinh.Link.NameID30" TagName="NameID30"/>
+	</Task>
 </Root>

@@ -49,6 +49,9 @@
             this.LogID14 = new ATSCADA.iWinTools.Logger.iDataLogger(this.components);
             this.LogID15 = new ATSCADA.iWinTools.Logger.iDataLogger(this.components);
             this.LogID16 = new ATSCADA.iWinTools.Logger.iDataLogger(this.components);
+            this.LogID17 = new ATSCADA.iWinTools.Logger.iDataLogger(this.components);
+            this.LogID18 = new ATSCADA.iWinTools.Logger.iDataLogger(this.components);
+            this.LogID19 = new ATSCADA.iWinTools.Logger.iDataLogger(this.components);
             this.LogID20 = new ATSCADA.iWinTools.Logger.iDataLogger(this.components);
             this.LogID21 = new ATSCADA.iWinTools.Logger.iDataLogger(this.components);
             this.LogID22 = new ATSCADA.iWinTools.Logger.iDataLogger(this.components);
@@ -79,6 +82,9 @@
             this.DAY_EnergyToolsByKWHID14 = new ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM();
             this.DAY_EnergyToolsByKWHID15 = new ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM();
             this.DAY_EnergyToolsByKWHID16 = new ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM();
+            this.DAY_EnergyToolsByKWHID17 = new ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM();
+            this.DAY_EnergyToolsByKWHID18 = new ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM();
+            this.DAY_EnergyToolsByKWHID19 = new ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM();
             this.DAY_EnergyToolsByKWHID20 = new ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM();
             this.DAY_EnergyToolsByKWHID21 = new ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM();
             this.DAY_EnergyToolsByKWHID22 = new ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM();
@@ -106,6 +112,9 @@
             this.AlarmLogID14 = new ATSCADA.iWinTools.Logger.iAlarmLogger(this.components);
             this.AlarmLogID15 = new ATSCADA.iWinTools.Logger.iAlarmLogger(this.components);
             this.AlarmLogID16 = new ATSCADA.iWinTools.Logger.iAlarmLogger(this.components);
+            this.AlarmLogID17 = new ATSCADA.iWinTools.Logger.iAlarmLogger(this.components);
+            this.AlarmLogID18 = new ATSCADA.iWinTools.Logger.iAlarmLogger(this.components);
+            this.AlarmLogID19 = new ATSCADA.iWinTools.Logger.iAlarmLogger(this.components);
             this.AlarmLogID20 = new ATSCADA.iWinTools.Logger.iAlarmLogger(this.components);
             this.AlarmLogID21 = new ATSCADA.iWinTools.Logger.iAlarmLogger(this.components);
             this.AlarmLogID22 = new ATSCADA.iWinTools.Logger.iAlarmLogger(this.components);
@@ -379,17 +388,62 @@
             // LogID16
             // 
             this.LogID16.AllowLogWhenBad = true;
-            this.LogID16.Collection = resources.GetString("LogID16.Collection");
+            this.LogID16.Collection = resources.GetString("LogID15.Collection"); ;
             this.LogID16.DatabaseLog.DatabaseName = "gsdn_baominh";
             this.LogID16.DatabaseLog.DatabaseType = ATSCADA.iWinTools.Database.DatabaseType.MySQL;
             this.LogID16.DatabaseLog.Password = "100100";
             this.LogID16.DatabaseLog.Port = ((uint)(3306u));
             this.LogID16.DatabaseLog.ServerName = "localhost";
-            this.LogID16.DatabaseLog.TableName = "datalogID16";
+            this.LogID16.DatabaseLog.TableName = "datalogID19";
             this.LogID16.DatabaseLog.UserID = "root";
             this.LogID16.Driver = this.iDriverMain;
             this.LogID16.LoggingTimerRate = "Internal_ConfigConfig.TimeRate";
             this.LogID16.UpdateType = ATSCADA.iWinTools.Logger.UpdateType.Timer;
+            // 
+            // LogID17
+            // 
+            this.LogID17.AllowLogWhenBad = false;
+            this.LogID17.Collection = "";
+            this.LogID17.DatabaseLog.DatabaseName = "ATSCADA";
+            this.LogID17.DatabaseLog.DatabaseType = ATSCADA.iWinTools.Database.DatabaseType.MySQL;
+            this.LogID17.DatabaseLog.Password = "101101";
+            this.LogID17.DatabaseLog.Port = ((uint)(3306u));
+            this.LogID17.DatabaseLog.ServerName = "localhost";
+            this.LogID17.DatabaseLog.TableName = "datalog";
+            this.LogID17.DatabaseLog.UserID = "root";
+            this.LogID17.Driver = null;
+            this.LogID17.LoggingTimerRate = null;
+            this.LogID17.UpdateType = ATSCADA.iWinTools.Logger.UpdateType.Timer;
+            // 
+            // LogID18
+            // 
+            this.LogID18.AllowLogWhenBad = false;
+            this.LogID18.Collection = "";
+            this.LogID18.DatabaseLog.DatabaseName = "ATSCADA";
+            this.LogID18.DatabaseLog.DatabaseType = ATSCADA.iWinTools.Database.DatabaseType.MySQL;
+            this.LogID18.DatabaseLog.Password = "101101";
+            this.LogID18.DatabaseLog.Port = ((uint)(3306u));
+            this.LogID18.DatabaseLog.ServerName = "localhost";
+            this.LogID18.DatabaseLog.TableName = "datalog";
+            this.LogID18.DatabaseLog.UserID = "root";
+            this.LogID18.Driver = null;
+            this.LogID18.LoggingTimerRate = null;
+            this.LogID18.UpdateType = ATSCADA.iWinTools.Logger.UpdateType.Timer;
+            // 
+            // LogID19
+            // 
+            this.LogID19.AllowLogWhenBad = false;
+            this.LogID19.Collection = "";
+            this.LogID19.DatabaseLog.DatabaseName = "ATSCADA";
+            this.LogID19.DatabaseLog.DatabaseType = ATSCADA.iWinTools.Database.DatabaseType.MySQL;
+            this.LogID19.DatabaseLog.Password = "101101";
+            this.LogID19.DatabaseLog.Port = ((uint)(3306u));
+            this.LogID19.DatabaseLog.ServerName = "localhost";
+            this.LogID19.DatabaseLog.TableName = "datalog";
+            this.LogID19.DatabaseLog.UserID = "root";
+            this.LogID19.Driver = null;
+            this.LogID19.LoggingTimerRate = null;
+            this.LogID19.UpdateType = ATSCADA.iWinTools.Logger.UpdateType.Timer;
             // 
             // LogID20
             // 
@@ -743,6 +797,36 @@
             this.DAY_EnergyToolsByKWHID16.LastEnergyTagNameCollection = resources.GetString("DAY_EnergyToolsByKWHID16.LastEnergyTagNameCollection");
             this.DAY_EnergyToolsByKWHID16.SampleTime = ((uint)(15000u));
             this.DAY_EnergyToolsByKWHID16.TimeUnit = ATSCADA.iEnergyTools.Core.TimeUnit.Day;
+            // 
+            // DAY_EnergyToolsByKWHID17
+            // 
+            this.DAY_EnergyToolsByKWHID17.CaculatorEnergyTagName = "Internal_NhaMayBaoMinhENERGY_GW2.ID17_Today";
+            this.DAY_EnergyToolsByKWHID17.CurrentEnergyTagName = "NhaMayBaoMinh_GW2ID17.kWh";
+            this.DAY_EnergyToolsByKWHID17.DecimalPlaces = 3;
+            this.DAY_EnergyToolsByKWHID17.Driver = this.iDriverMain;
+            this.DAY_EnergyToolsByKWHID17.LastEnergyTagNameCollection = resources.GetString("DAY_EnergyToolsByKWHID17.LastEnergyTagNameCollection");
+            this.DAY_EnergyToolsByKWHID17.SampleTime = ((uint)(15000u));
+            this.DAY_EnergyToolsByKWHID17.TimeUnit = ATSCADA.iEnergyTools.Core.TimeUnit.Day;
+            // 
+            // DAY_EnergyToolsByKWHID18
+            // 
+            this.DAY_EnergyToolsByKWHID18.CaculatorEnergyTagName = "Internal_NhaMayBaoMinhENERGY_GW2.ID18_Today";
+            this.DAY_EnergyToolsByKWHID18.CurrentEnergyTagName = "NhaMayBaoMinh_GW2ID18.kWh";
+            this.DAY_EnergyToolsByKWHID18.DecimalPlaces = 3;
+            this.DAY_EnergyToolsByKWHID18.Driver = this.iDriverMain;
+            this.DAY_EnergyToolsByKWHID18.LastEnergyTagNameCollection = resources.GetString("DAY_EnergyToolsByKWHID18.LastEnergyTagNameCollection");
+            this.DAY_EnergyToolsByKWHID18.SampleTime = ((uint)(15000u));
+            this.DAY_EnergyToolsByKWHID18.TimeUnit = ATSCADA.iEnergyTools.Core.TimeUnit.Day;
+            // 
+            // DAY_EnergyToolsByKWHID19
+            // 
+            this.DAY_EnergyToolsByKWHID19.CaculatorEnergyTagName = "Internal_NhaMayBaoMinhENERGY_GW2.ID19_Today";
+            this.DAY_EnergyToolsByKWHID19.CurrentEnergyTagName = "NhaMayBaoMinh_GW2ID19.kWh";
+            this.DAY_EnergyToolsByKWHID19.DecimalPlaces = 3;
+            this.DAY_EnergyToolsByKWHID19.Driver = this.iDriverMain;
+            this.DAY_EnergyToolsByKWHID19.LastEnergyTagNameCollection = resources.GetString("DAY_EnergyToolsByKWHID19.LastEnergyTagNameCollection");
+            this.DAY_EnergyToolsByKWHID19.SampleTime = ((uint)(15000u));
+            this.DAY_EnergyToolsByKWHID19.TimeUnit = ATSCADA.iEnergyTools.Core.TimeUnit.Day;
             // 
             // DAY_EnergyToolsByKWHID20
             // 
@@ -1254,6 +1338,81 @@
             this.AlarmLogID16.EmailConfig.TimeOut = 10000;
             this.AlarmLogID16.EmailTagName = null;
             // 
+            // AlarmLogID17
+            // 
+            this.AlarmLogID17.DatabaseLog.DatabaseName = "gsdn_baominh";
+            this.AlarmLogID17.DatabaseLog.DatabaseType = ATSCADA.iWinTools.Database.DatabaseType.MySQL;
+            this.AlarmLogID17.DatabaseLog.Password = "100100";
+            this.AlarmLogID17.DatabaseLog.Port = ((uint)(3306u));
+            this.AlarmLogID17.DatabaseLog.ServerName = "localhost";
+            this.AlarmLogID17.DatabaseLog.TableName = "alarmlogID17";
+            this.AlarmLogID17.DatabaseLog.UserID = "root";
+            this.AlarmLogID17.DatabaseSettings.DatabaseName = "gsdn_baominh";
+            this.AlarmLogID17.DatabaseSettings.DatabaseType = ATSCADA.iWinTools.Database.DatabaseType.MySQL;
+            this.AlarmLogID17.DatabaseSettings.Password = "100100";
+            this.AlarmLogID17.DatabaseSettings.Port = ((uint)(3306u));
+            this.AlarmLogID17.DatabaseSettings.ServerName = "localhost";
+            this.AlarmLogID17.DatabaseSettings.TableName = "alarmsettings";
+            this.AlarmLogID17.DatabaseSettings.UserID = "root";
+            this.AlarmLogID17.Driver = this.iDriverMain;
+            this.AlarmLogID17.EmailConfig.CredentialEmail = "";
+            this.AlarmLogID17.EmailConfig.CredentialPass = "";
+            this.AlarmLogID17.EmailConfig.EnableSSL = true;
+            this.AlarmLogID17.EmailConfig.Host = "smtp.gmail.com";
+            this.AlarmLogID17.EmailConfig.Port = 587;
+            this.AlarmLogID17.EmailConfig.TimeOut = 10000;
+            this.AlarmLogID17.EmailTagName = null;
+            // 
+            // AlarmLogID18
+            // 
+            this.AlarmLogID18.DatabaseLog.DatabaseName = "gsdn_baominh";
+            this.AlarmLogID18.DatabaseLog.DatabaseType = ATSCADA.iWinTools.Database.DatabaseType.MySQL;
+            this.AlarmLogID18.DatabaseLog.Password = "100100";
+            this.AlarmLogID18.DatabaseLog.Port = ((uint)(3306u));
+            this.AlarmLogID18.DatabaseLog.ServerName = "localhost";
+            this.AlarmLogID18.DatabaseLog.TableName = "alarmlogID18";
+            this.AlarmLogID18.DatabaseLog.UserID = "root";
+            this.AlarmLogID18.DatabaseSettings.DatabaseName = "gsdn_baominh";
+            this.AlarmLogID18.DatabaseSettings.DatabaseType = ATSCADA.iWinTools.Database.DatabaseType.MySQL;
+            this.AlarmLogID18.DatabaseSettings.Password = "100100";
+            this.AlarmLogID18.DatabaseSettings.Port = ((uint)(3306u));
+            this.AlarmLogID18.DatabaseSettings.ServerName = "localhost";
+            this.AlarmLogID18.DatabaseSettings.TableName = "alarmsettings";
+            this.AlarmLogID18.DatabaseSettings.UserID = "root";
+            this.AlarmLogID18.Driver = this.iDriverMain;
+            this.AlarmLogID18.EmailConfig.CredentialEmail = "";
+            this.AlarmLogID18.EmailConfig.CredentialPass = "";
+            this.AlarmLogID18.EmailConfig.EnableSSL = true;
+            this.AlarmLogID18.EmailConfig.Host = "smtp.gmail.com";
+            this.AlarmLogID18.EmailConfig.Port = 587;
+            this.AlarmLogID18.EmailConfig.TimeOut = 10000;
+            this.AlarmLogID18.EmailTagName = null;
+            // 
+            // AlarmLogID19
+            // 
+            this.AlarmLogID19.DatabaseLog.DatabaseName = "gsdn_baominh";
+            this.AlarmLogID19.DatabaseLog.DatabaseType = ATSCADA.iWinTools.Database.DatabaseType.MySQL;
+            this.AlarmLogID19.DatabaseLog.Password = "100100";
+            this.AlarmLogID19.DatabaseLog.Port = ((uint)(3306u));
+            this.AlarmLogID19.DatabaseLog.ServerName = "localhost";
+            this.AlarmLogID19.DatabaseLog.TableName = "alarmlogID19";
+            this.AlarmLogID19.DatabaseLog.UserID = "root";
+            this.AlarmLogID19.DatabaseSettings.DatabaseName = "gsdn_baominh";
+            this.AlarmLogID19.DatabaseSettings.DatabaseType = ATSCADA.iWinTools.Database.DatabaseType.MySQL;
+            this.AlarmLogID19.DatabaseSettings.Password = "100100";
+            this.AlarmLogID19.DatabaseSettings.Port = ((uint)(3306u));
+            this.AlarmLogID19.DatabaseSettings.ServerName = "localhost";
+            this.AlarmLogID19.DatabaseSettings.TableName = "alarmsettings";
+            this.AlarmLogID19.DatabaseSettings.UserID = "root";
+            this.AlarmLogID19.Driver = this.iDriverMain;
+            this.AlarmLogID19.EmailConfig.CredentialEmail = "";
+            this.AlarmLogID19.EmailConfig.CredentialPass = "";
+            this.AlarmLogID19.EmailConfig.EnableSSL = true;
+            this.AlarmLogID19.EmailConfig.Host = "smtp.gmail.com";
+            this.AlarmLogID19.EmailConfig.Port = 587;
+            this.AlarmLogID19.EmailConfig.TimeOut = 10000;
+            this.AlarmLogID19.EmailTagName = null;
+            // 
             // AlarmLogID20
             // 
             this.AlarmLogID20.DatabaseLog.DatabaseName = "gsdn_baominh";
@@ -1593,6 +1752,9 @@
         private ATSCADA.iWinTools.Logger.iDataLogger LogID14;
         private ATSCADA.iWinTools.Logger.iDataLogger LogID15;
         private ATSCADA.iWinTools.Logger.iDataLogger LogID16;
+        private ATSCADA.iWinTools.Logger.iDataLogger LogID17;
+        private ATSCADA.iWinTools.Logger.iDataLogger LogID18;
+        private ATSCADA.iWinTools.Logger.iDataLogger LogID19;
         private ATSCADA.iWinTools.Logger.iDataLogger LogID20;
         private ATSCADA.iWinTools.Logger.iDataLogger LogID21;
         private ATSCADA.iWinTools.Logger.iDataLogger LogID22;
@@ -1623,6 +1785,9 @@
         private ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM DAY_EnergyToolsByKWHID14;
         private ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM DAY_EnergyToolsByKWHID15;
         private ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM DAY_EnergyToolsByKWHID16;
+        private ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM DAY_EnergyToolsByKWHID17;
+        private ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM DAY_EnergyToolsByKWHID18;
+        private ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM DAY_EnergyToolsByKWHID19;
         private ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM DAY_EnergyToolsByKWHID20;
         private ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM DAY_EnergyToolsByKWHID21;
         private ATSCADA.iEnergyTools.Energy.Calculator.iEnergyCalculatorforPM DAY_EnergyToolsByKWHID22;
@@ -1650,6 +1815,9 @@
         private ATSCADA.iWinTools.Logger.iAlarmLogger AlarmLogID14;
         private ATSCADA.iWinTools.Logger.iAlarmLogger AlarmLogID15;
         private ATSCADA.iWinTools.Logger.iAlarmLogger AlarmLogID16;
+        private ATSCADA.iWinTools.Logger.iAlarmLogger AlarmLogID17;
+        private ATSCADA.iWinTools.Logger.iAlarmLogger AlarmLogID18;
+        private ATSCADA.iWinTools.Logger.iAlarmLogger AlarmLogID19;
         private ATSCADA.iWinTools.Logger.iAlarmLogger AlarmLogID20;
         private ATSCADA.iWinTools.Logger.iAlarmLogger AlarmLogID21;
         private ATSCADA.iWinTools.Logger.iAlarmLogger AlarmLogID22;

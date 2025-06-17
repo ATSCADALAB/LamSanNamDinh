@@ -12989,7 +12989,7 @@
         </atscada-components>
       </atscada-view>
     </atscada-assembly>
-	<atscada-assembly at-value="ATSCADAWebApp.Core.ATSCADAView, ATSCADAFastWeb.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <atscada-assembly at-value="ATSCADAWebApp.Core.ATSCADAView, ATSCADAFastWeb.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
       <atscada-view at-content="TTID30" at-location="TTID30" at-icon="light" at-roles="Admin, Operator" at-interval="1000" at-max-number-of-write="10" at-timeout="3000" at-visible="false">
         <at-component-name>ID29</at-component-name>
         <at-component-description>ATSCADA Fast Web Component</at-component-description>
@@ -13609,7 +13609,7 @@
                           <at-component-description>Input - ATSCADA Web Component</at-component-description>
                         </atscada-attribute>
                       </atscada-assembly>
-					  <atscada-assembly at-value="ATSCADAWebApp.Component.Input.ATSCADAInput, ATSCADAFastWeb.Component, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+                      <atscada-assembly at-value="ATSCADAWebApp.Component.Input.ATSCADAInput, ATSCADAFastWeb.Component, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
                         <atscada-attribute at-content="ID30" at-data-tag-name="Internal_NhaMayTanThanhCard.NameID30" at-grid-column="col-sm-3">
                           <at-component-name>Name</at-component-name>
                           <at-component-description>Input - ATSCADA Web Component</at-component-description>
